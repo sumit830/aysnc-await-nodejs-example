@@ -1,0 +1,14 @@
+{"level":"info","message":"API called to get all users","timestamp":"2018-09-06T06:45:32.757Z"}
+{"level":"info","message":"Users returned successfully","timestamp":"2018-09-06T06:45:33.119Z"}
+{"level":"info","message":"API called to get all users","timestamp":"2018-09-06T06:46:05.018Z"}
+{"level":"info","message":"Users returned successfully","timestamp":"2018-09-06T06:46:34.727Z"}
+{"level":"info","message":"API called to create new user","timestamp":"2018-09-06T06:56:57.498Z"}
+{"level":"info","message":"User created successfully","timestamp":"2018-09-06T06:57:15.171Z"}
+{"level":"info","message":"API called to create new user","timestamp":"2018-09-06T06:57:33.988Z"}
+{"level":"info","message":"User created successfully","timestamp":"2018-09-06T06:57:35.136Z"}
+{"level":"info","message":"API called to create new user","timestamp":"2018-09-07T05:38:50.487Z"}
+{"level":"info","message":"Users data already exists","timestamp":"2018-09-07T05:39:02.086Z"}
+{"level":"info","message":"API called to create new user","timestamp":"2018-09-07T05:44:48.888Z"}
+{"level":"info","message":"Users data already exists","timestamp":"2018-09-07T05:44:57.120Z"}
+{"level":"info","message":"API called to create new user","timestamp":"2018-09-07T05:47:11.496Z"}
+{"level":"info","message":"Users data already exists","timestamp":"2018-09-07T05:47:19.870Z"}
